@@ -12,8 +12,5 @@ hello 2022! hello git!
 hello 2022! hello git!
 hello 2022! hello git!
 hello 2022! hello git!
-<<<<<<< HEAD
 hello 2022! hello git!master test
-=======
 hello 2022! hello git!hot-fix test
->>>>>>> hot-fix
